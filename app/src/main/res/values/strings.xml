@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KalKul - The Calculator</string>
+    <string name="txtCalculations">0</string>
+    <string name="txtResults">00</string>
+    <string name="btn7">seven</string>
+    <string name="btn8">eight</string>
+    <string name="btn9">nine</string>
+    <string name="btnDivide">divide</string>
+    <string name="btn4">four</string>
+    <string name="btn5">five</string>
+    <string name="btn6">six</string>
+    <string name="btnMultiply">multiply</string>
+    <string name="btn1">one</string>
+    <string name="btn2">two</string>
+    <string name="btn3">three</string>
+    <string name="btnMinus">minus</string>
+    <string name="btnC">C</string>
+    <string name="btn0">zero</string>
+    <string name="equalto">equalto</string>
+    <string name="plus">plus</string>
+</resources>
